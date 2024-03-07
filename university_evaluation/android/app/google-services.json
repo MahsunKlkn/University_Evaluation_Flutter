@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190487484422",
+    "project_id": "university-review-62efa",
+    "storage_bucket": "university-review-62efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190487484422:android:295e4fc38f7fa0a1108b87",
+        "android_client_info": {
+          "package_name": "com.example.future_education_analysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHcGrnhtAT29ppAurzAQTQP0bEgVnZwrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
